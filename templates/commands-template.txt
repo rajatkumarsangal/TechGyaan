@@ -1,0 +1,2 @@
+# Add commands from the video here.
+# Use comments to explain when each command should be run.

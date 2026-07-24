@@ -1,0 +1,41 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Dependency folders
+node_modules/
+packages/
+
+# Build output
+dist/
+build/
+out/
+bin/
+obj/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Archives and generated media
+*.zip
+*.7z
+*.rar
